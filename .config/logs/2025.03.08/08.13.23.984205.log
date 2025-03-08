@@ -1,0 +1,8 @@
+2025-03-08 08:13:23,987 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-03-08 08:13:23,994 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'unset']
+2025-03-08 08:13:23,996 DEBUG    root            Running [gcloud.config.unset] with arguments: [SECTION/PROPERTY: "compute/gce_metadata_read_timeout_sec"]
+2025-03-08 08:13:23,997 INFO     ___FILE_ONLY___ Unset property [compute/gce_metadata_read_timeout_sec].
+
+2025-03-08 08:13:23,998 DEBUG    root            Chosen display Format:default
+2025-03-08 08:13:23,998 INFO     root            Display format: "default"
+2025-03-08 08:13:23,999 DEBUG    root            SDK update checks are disabled.
